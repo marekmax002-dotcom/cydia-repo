@@ -1,0 +1,7 @@
+Origin: My Cydia Repository
+Label: My Cydia Repository
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Personal repository for authorized iOS packages
